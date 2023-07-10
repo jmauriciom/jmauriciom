@@ -42,7 +42,7 @@
 <div align="center">
 <h3 align="center">Visitor Count: </h3> 
 
-![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jmauriciom/count.svg)
 
  </div>
 
