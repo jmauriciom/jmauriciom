@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mauri.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
-<br>🐱 I'm 29 y/o, I am from Rosario, Santa Fe, and I am a technology enthusiast...
+<br>🐱I'm 29 y/o technology enthusiast from Rosario, Santa Fe. Argentina...
 <br>💫 I’m a full-stack developer but currently, I am more interested in the front-end web developer, currently learning React, TypeScript and Next.Js.
 <br>⭐ I am passionate about video games, anime, series, and movies. I also listen to a lot of music, especially electronic music.
 <br>👩‍💻 Constantly learning. I am very interested in the visual and aesthetic aspects, what is seen first.!
