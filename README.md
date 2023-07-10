@@ -8,7 +8,7 @@
 <br>💫 Full-stack developer but enthusiastic to become front-end developer. Currently learning about React, TypeScript and Next.Js.
 <br>⭐ Passionate about video games, anime, series, and movies. I also listen to a lot of music, especially electronic.
 <br>👩‍💻 Constantly learning. Very interested in the visual and aesthetic aspects, sizzle sells the steak!
- <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+ <br> <p align="center"><i>✨With great power comes great responsibility✨</i></p>
  </p>
 
 <!-- Socials --> 
