@@ -5,7 +5,7 @@
 <h3 align="center">About Me :</h3>  
  <p>
 <br>🐱I'm 29 y/o technology enthusiast from Rosario, Santa Fe. Argentina...
-<br>💫 I’m a full-stack developer but currently, I am more interested in the front-end web developer, currently learning React, TypeScript and Next.Js.
+<br>💫 Full-stack developer but enthusiastic to become front-end web developer. Currently learning about React, TypeScript and Next.Js.
 <br>⭐ I am passionate about video games, anime, series, and movies. I also listen to a lot of music, especially electronic music.
 <br>👩‍💻 Constantly learning. I am very interested in the visual and aesthetic aspects, what is seen first.!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
