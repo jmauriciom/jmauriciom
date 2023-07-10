@@ -1,11 +1,11 @@
 <!-- Intro -->
 
-<a><img src="https://github.com/jmauriciom/image/blob/main/1.png" /></a>
+<img src="https://github.com/jmauriciom/image/blob/main/1.png" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi  !! I'm Mauri.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
 <br>🐱I'm 29 y/o technology enthusiast from Rosario, Santa Fe. Argentina...
-<br>💫 Full-stack developer but enthusiastic to become front-end web developer. Currently learning about React, TypeScript and Next.Js.
+<br>💫 Full-stack developer but enthusiastic to become front-end developer. Currently learning about React, TypeScript and Next.Js.
 <br>⭐ Passionate about video games, anime, series, and movies. I also listen to a lot of music, especially electronic.
 <br>👩‍💻 Constantly learning. Very interested in the visual and aesthetic aspects, sizzle sells the steak!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
